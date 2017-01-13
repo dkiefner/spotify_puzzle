@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reversebinary/reversebinary.iml" filepath="$PROJECT_DIR$/.idea/modules/reversebinary/reversebinary.iml" group="reversebinary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reversebinary/reversebinary_main.iml" filepath="$PROJECT_DIR$/.idea/modules/reversebinary/reversebinary_main.iml" group="reversebinary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reversebinary/reversebinary_test.iml" filepath="$PROJECT_DIR$/.idea/modules/reversebinary/reversebinary_test.iml" group="reversebinary" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spotify-puzzle.iml" filepath="$PROJECT_DIR$/.idea/modules/spotify-puzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zipfsong/zipfsong.iml" filepath="$PROJECT_DIR$/.idea/modules/zipfsong/zipfsong.iml" group="zipfsong" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zipfsong/zipfsong_main.iml" filepath="$PROJECT_DIR$/.idea/modules/zipfsong/zipfsong_main.iml" group="zipfsong" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zipfsong/zipfsong_test.iml" filepath="$PROJECT_DIR$/.idea/modules/zipfsong/zipfsong_test.iml" group="zipfsong" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+rootProject.name = 'spotify-puzzle'
+include 'reversebinary'
+include 'zipfsong'
+
