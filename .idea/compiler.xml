@@ -19,6 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="1.8">
+      <module name="catvsdog_main" target="1.8" />
+      <module name="catvsdog_test" target="1.8" />
       <module name="reversebinary_main" target="1.8" />
       <module name="reversebinary_test" target="1.8" />
       <module name="spotify-puzzle_main" target="1.8" />

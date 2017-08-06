@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/catvsdog/catvsdog.iml" filepath="$PROJECT_DIR$/.idea/modules/catvsdog/catvsdog.iml" group="catvsdog" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/catvsdog/catvsdog_main.iml" filepath="$PROJECT_DIR$/.idea/modules/catvsdog/catvsdog_main.iml" group="catvsdog" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/catvsdog/catvsdog_test.iml" filepath="$PROJECT_DIR$/.idea/modules/catvsdog/catvsdog_test.iml" group="catvsdog" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/reversebinary/reversebinary.iml" filepath="$PROJECT_DIR$/.idea/modules/reversebinary/reversebinary.iml" group="reversebinary" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/reversebinary/reversebinary_main.iml" filepath="$PROJECT_DIR$/.idea/modules/reversebinary/reversebinary_main.iml" group="reversebinary" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/reversebinary/reversebinary_test.iml" filepath="$PROJECT_DIR$/.idea/modules/reversebinary/reversebinary_test.iml" group="reversebinary" />
